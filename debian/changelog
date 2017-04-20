@@ -1,3 +1,10 @@
+et (3.0.0-1ubuntu1) xenial; urgency=medium
+
+  * Added daemon to handle multiple clients
+  * Many bug fixes and improvements
+
+ -- Jason Gauci <jgmath2000@gmail.com>  Thu, 20 Apr 2017 10:57:51 -0800
+
 et (2.1.0-1ubuntu1) xenial; urgency=medium
 
   * Compiles now on debian and other linux systems with older gflags implementations.
